@@ -1,0 +1,5 @@
+#!/bin/bash
+instance="mastodon.social"
+source ./mastodon.sh b905f4aafd2fc45af4bfec11de2171dad7c1b6c2338d4cf282c514a99f2b0898 10394202dfda12845db7a2b0cd0070dd20b73e84b2082e98375a5e60c281c159 aaf3dffd2685ef18fb5d79ac047acf2c852f6882077f50587fba6e26a1fc08c2
+read_status_full 101483941981296291
+echo -e "\nDone!"
